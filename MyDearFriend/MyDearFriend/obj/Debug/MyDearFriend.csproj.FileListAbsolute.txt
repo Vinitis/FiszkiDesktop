@@ -1,0 +1,9 @@
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.csprojResolveAssemblyReference.cache
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.Form1.resources
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.Properties.Resources.resources
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.csproj.GenerateResource.Cache
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.exe.config
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.exe
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.pdb
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.exe
+C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.pdb
