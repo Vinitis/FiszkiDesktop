@@ -41,7 +41,6 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.listViewAll = new System.Windows.Forms.ListView();
             this.buttonRet = new System.Windows.Forms.Button();
-            this.buttonChange = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.textBoxWordUp = new System.Windows.Forms.TextBox();
@@ -110,7 +109,7 @@
             this.labelTranslate.BackColor = System.Drawing.Color.Transparent;
             this.labelTranslate.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTranslate.ForeColor = System.Drawing.Color.White;
-            this.labelTranslate.Location = new System.Drawing.Point(48, 114);
+            this.labelTranslate.Location = new System.Drawing.Point(14, 76);
             this.labelTranslate.Name = "labelTranslate";
             this.labelTranslate.Size = new System.Drawing.Size(116, 19);
             this.labelTranslate.TabIndex = 1;
@@ -166,9 +165,10 @@
             this.groupBox1.Controls.Add(this.textBoxTranslate);
             this.groupBox1.Controls.Add(this.buttonAdd);
             this.groupBox1.Controls.Add(this.labelWord);
+            this.groupBox1.Controls.Add(this.labelTranslate);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.groupBox1.ForeColor = System.Drawing.Color.White;
-            this.groupBox1.Location = new System.Drawing.Point(34, 38);
+            this.groupBox1.Location = new System.Drawing.Point(34, 91);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(400, 200);
             this.groupBox1.TabIndex = 10;
@@ -204,20 +204,6 @@
             this.buttonRet.UseVisualStyleBackColor = false;
             this.buttonRet.Click += new System.EventHandler(this.buttonRet_Click_1);
             // 
-            // buttonChange
-            // 
-            this.buttonChange.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(188)))), ((int)(((byte)(56)))), ((int)(((byte)(12)))));
-            this.buttonChange.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.buttonChange.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.buttonChange.ForeColor = System.Drawing.Color.White;
-            this.buttonChange.Location = new System.Drawing.Point(34, 523);
-            this.buttonChange.Name = "buttonChange";
-            this.buttonChange.Size = new System.Drawing.Size(400, 150);
-            this.buttonChange.TabIndex = 15;
-            this.buttonChange.Text = "Witaj!";
-            this.buttonChange.UseVisualStyleBackColor = false;
-            this.buttonChange.Click += new System.EventHandler(this.buttonChange_Click);
-            // 
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
@@ -228,7 +214,7 @@
             this.groupBox2.Controls.Add(this.buttonEdit);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.groupBox2.ForeColor = System.Drawing.Color.White;
-            this.groupBox2.Location = new System.Drawing.Point(34, 271);
+            this.groupBox2.Location = new System.Drawing.Point(34, 377);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(400, 200);
             this.groupBox2.TabIndex = 11;
@@ -310,13 +296,11 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.buttonChange);
             this.Controls.Add(this.buttonRet);
             this.Controls.Add(this.listViewAll);
             this.Controls.Add(this.buttonDelete);
             this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.labelSearch);
-            this.Controls.Add(this.labelTranslate);
             this.Controls.Add(this.groupBox1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -355,7 +339,6 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.ListView listViewAll;
         private System.Windows.Forms.Button buttonRet;
-        private System.Windows.Forms.Button buttonChange;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBoxWordUp;

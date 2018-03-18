@@ -7,3 +7,12 @@ C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\b
 C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.pdb
 C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.exe
 C:\Users\Tsuki\Documents\Visual Studio 2017\Projects\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.pdb
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.exe.config
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.exe
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\bin\Debug\MyDearFriend.pdb
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.csprojResolveAssemblyReference.cache
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.Form1.resources
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.Properties.Resources.resources
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.csproj.GenerateResource.Cache
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.exe
+D:\FiszkiDesktopProj\MyDearFriend\MyDearFriend\obj\Debug\MyDearFriend.pdb

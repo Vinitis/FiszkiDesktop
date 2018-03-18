@@ -165,13 +165,14 @@ namespace MyDearFriend
 
         }
 
+        /*
         public void IfPushed () {
 
             if (pushed % 2 == 0) {
                 buttonChange.Text = listViewAll.SelectedItems[0].SubItems[0].Text;
             } else buttonChange.Text = listViewAll.SelectedItems[0].SubItems[1].Text;
 
-        }
+        }  */
 
 
         private void listViewAll_MouseClick(object sender, MouseEventArgs e)
@@ -179,7 +180,7 @@ namespace MyDearFriend
             Debug.WriteLine("List view");
             textBoxWordUp.Text = listViewAll.SelectedItems[0].SubItems[0].Text;
             textBoxTranslateUp.Text = listViewAll.SelectedItems[0].SubItems[1].Text;           
-            buttonChange.Text = listViewAll.SelectedItems[0].SubItems[0].Text;
+            //buttonChange.Text = listViewAll.SelectedItems[0].SubItems[0].Text;
             selected = true;
 
         }
@@ -223,7 +224,6 @@ namespace MyDearFriend
                 Delete(id);
                 textBoxWord.Text = "";
                 textBoxTranslate.Text = "";
-                buttonChange.Text = "";
                 selected = false;
             }
             else {
@@ -247,13 +247,14 @@ namespace MyDearFriend
             Retrieve();
         }
 
+        //This feature is no longer avible
         private void buttonChange_Click(object sender, EventArgs e)
         {
             Debug.WriteLine("Klikam!");
 
             pushed++;
             if (selected) {
-                IfPushed();
+               // IfPushed();
             } else {
                 MessageBox.Show("Wybierz słowo!");
             }
@@ -295,6 +296,8 @@ namespace MyDearFriend
 
             }
         }
+
+     
 
         /*
         private void button3_Click(object sender, EventArgs e)
